@@ -5,13 +5,10 @@
     --dark-blue: hsl(218, 44%, 22%);
 }
 
-@font-face {
-    font-family: 'outfit';
-    src: url('https://fonts.google.com/specimen/Outfit');
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 body {
-    font-family: outfit;
+    font-family: 'Outfit', sans-serif;
 }
 
 h1 {
