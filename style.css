@@ -20,7 +20,14 @@ p {
     font-weight: 400;
 }
 
+img {
+    width:fit-content;
+    border-radius: 10%;
+}
+
 #qr-container {
     display: flex;
     flex-direction: column;
+    text-align: center;
+    border-radius: 10%;
 }
