@@ -19,3 +19,8 @@ p {
     font-size: 15px;
     font-weight: 400;
 }
+
+#qr-container {
+    display: flex;
+    flex-direction: column;
+}
