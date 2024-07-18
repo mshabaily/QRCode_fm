@@ -48,12 +48,14 @@ img {
     justify-content: center;
     text-align: center;
     border-radius: 5%;
-    max-width: 400px;
+
+    width: 400px;
+    max-width: 30vw;
     height: fit-content;
     background-color: var(--white);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 250px) {
     #qr-container {
         width: 60vw;
     }
